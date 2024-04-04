@@ -14,8 +14,6 @@
     "node-telegram-bot-api": "^0.65.1"
   },
   "dependencies": {
-    "@google/generative-ai": "^0.3.1",
-    "langchain": "^0.1.30",
-    "zod": "^3.22.4"
+    "@google/generative-ai": "^0.3.1"
   }
 }
